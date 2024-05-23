@@ -6,6 +6,8 @@
 
 ## 快捷下载地址
 
+[点此下载](https://github.com/xiumuzdiao/Dlc-Pack-Creator_zh/releases)
+
 ## 关于
 
 该程序会在 dlc 包中生成自动填充..因此无需再进行设置！
