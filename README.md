@@ -12,6 +12,8 @@
 
 英语原文件：https://zh.gta5-mods.com/tools/dlc-pack-creator
 
+版权说明：[点击阅读](https://github.com/xiumuzdiao/Dlc-Pack-Creator_zh/tree/main?tab=MIT-1-ov-file)
+
 ## 使用说明
 
 1. 在 Dlc Name Texbox 中输入您想要的 dlc 包名称...
