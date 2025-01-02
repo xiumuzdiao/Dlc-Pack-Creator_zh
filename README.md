@@ -2,7 +2,7 @@
 
 效果图：
 
-![效果图](https://github.com/xiumuzdiao/Dlc-Pack-Creator_zh/blob/main/pic/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+![效果图](https://github.com/xiumuzdiao/Dlc-Pack-Creator_zh/blob/main/source/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 ## 快捷下载地址
 
